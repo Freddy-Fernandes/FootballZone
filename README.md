@@ -316,5 +316,3 @@ For support, email your-email@example.com
 ---
 
 Would you like me to automatically include **your name and GitHub handle** in the “Author” section before I finalize it for you?
-## 📁 Project Structure
-
